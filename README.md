@@ -25,9 +25,9 @@ based on the A=440hz spectrum. The frequencies used to generate the
 tones can be found at: http://pages.mtu.edu/~suits/notefreqs.html
 
 They are:
-    E = 82.41  hz
-    A = 110    hz
-    D = 146.83 hz
-    G = 196.00 hz
+  - E = 82.41  hz
+  - A = 110    hz
+  - D = 146.83 hz
+  - G = 196.00 hz
     
 HINT: You may find tuning easier if you use the twelfth harmonic.

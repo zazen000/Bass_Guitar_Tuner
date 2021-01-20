@@ -23,6 +23,7 @@ The wave files were made in Audacity using its tone generator to create
 a 30 second sine wave at the specified frequency. The frequencies are
 based on the A=440hz spectrum. The frequencies used to generate the
 tones can be found at: http://pages.mtu.edu/~suits/notefreqs.html
+
 They are:
     E = 82.41  hz
     A = 110    hz

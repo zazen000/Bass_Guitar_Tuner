@@ -1,10 +1,15 @@
 # Bass_Guitar_Tuner.py
 
-Created on Mon Mar 11 2019 11:15:24 
+Created on Mon Mar 11 2019 11:15:24
+
 Utility_Belt Designs, Tacoma, WA
+
 www.pythonOver60.rocks
+
 @author: ZennDogg
+
 zenndogg@outlook.com
+
 
 Nothing to see here, folks.  There is no visual interface.
 

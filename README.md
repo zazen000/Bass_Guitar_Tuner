@@ -1,4 +1,5 @@
 # Bass_Guitar_Tuner.py
+a no_GUI tuner using .wav files
 
 - Created on Mon Mar 11 2019 11:15:24
 - Utility_Belt Designs, Tacoma, WA

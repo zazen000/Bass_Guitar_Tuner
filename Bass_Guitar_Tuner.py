@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-BassGuitarTuner.py
+Bass_Guita_rTuner.py - a no-GUI tuner using .WAV files
 
 Created on Mon Mar 11 2019 11:15:24 
 Utility_Belt Designs, Tacoma, WA

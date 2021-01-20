@@ -2,9 +2,11 @@
 """
 BassGuitarTuner.py
 
-Created on Mon Mar 11 11:15:24 2019
-
-@author: David W Robinson Jr
+Created on Mon Mar 11 2019 11:15:24 
+Utility_Belt Designs, Tacoma, WA
+www.pythonOver60.rocks
+@author: ZennDogg
+zenndogg@outlook.com
 
 Nothing to see here, folks.  There is no visual interface.
 

@@ -26,5 +26,6 @@ A no_GUI tuner using .wav files
       - A = 110    hz
       - D = 146.83 hz
       - G = 196.00 hz
+      (all in lower case)
 
 HINT: You may find tuning easier if you use the twelfth harmonic.
